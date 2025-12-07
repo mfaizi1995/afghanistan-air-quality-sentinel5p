@@ -4,7 +4,7 @@ Exploring air pollution patterns in Afghanistain's major cities using Sentinel-5
 Project Plan
 
 Goal:
-Use Sentinel-5P satellite data to analyze air pollution patterns (NO₂) in major Afghan cities—Kabul, Herat, Mazar-e-Sharif, Kandahar, and Jalalabad.
+Use Sentinel-5P satellite data to analyze air pollution patterns (NO₂) in major Afghan cities: Kabul, Herat, Mazar-e-Sharif, Kandahar, and Jalalabad.
 
 Outline
 1. Data Acquisition
